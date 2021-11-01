@@ -7,6 +7,7 @@ namespace hastane
         static void Main(string[] args)
         {
             //elemanları kullanıcı tarafından girilen 10 adet elemanlı bir dizide , en uzun metni , en uzun metnin karakter sayısını bulan uygulama 
+            //güzel bir kod çalışması olmuş... Alican
 
             
             int yas;
